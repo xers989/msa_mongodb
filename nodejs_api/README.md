@@ -6,7 +6,12 @@ Atlas CRUD
 
 MongoDB 접근 정보 및 사용할 Database 지정    
 ````
-MONGODB=mongodb://USER_ID:PASSWORD@cluster1.5qjlg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+MONGODB=mongodb://USER_ID:PASSWORD@cluster1.5qjlg.mongodb.net/admin?retryWrites=true&w=majority
+DATABASE=DATABASENAME
+````
+MongoDB Atlas 를 사용 하는 경우는 다음과 같습니다
+````
+MONGODB=mongodb+srv://USER_ID:PASSWORD@cluster1.5qjlg.mongodb.net/admin?retryWrites=true&w=majority
 DATABASE=DATABASENAME
 ````
 
