@@ -10,4 +10,8 @@ Vuejs 를 이용한 사용자 화면, Nodejs 로 개발된 API 서버로 구성 
 
 
 ### Vuejs UI Server
-사용자 정보에 대한 GET, POST, DELETE 를 제공하는 API 애플리케이션 서비스
+사용자 정보에 대한 GET, POST, DELETE 를 제공하는 API 애플리케이션 서비스    
+<img src="/images/image03.png" width="90%" height="90%">   
+
+### MongoDB
+MongoDB Atlas 혹은 On-Prem 에 MongoDB 를 설치 하여 준비 합니다.
